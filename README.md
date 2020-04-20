@@ -11,3 +11,7 @@ The script uses selenium webdriver and basic python to <b>partially</b> automate
 
 <br>
 (ps: future scope is to use time libraries and automate the wishing birthday, festival, etc. The idea is to have the app hosted on heroku securely and have it read from a google drive a google sheet which can be updated and will be updated in the hosted app every 24 hours
+
+
+<br><br>
+The ``insta_bot`` is a seperate mini project that returns the usernames of the people that you follow but dont follow you back
